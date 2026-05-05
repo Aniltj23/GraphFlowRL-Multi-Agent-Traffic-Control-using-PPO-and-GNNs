@@ -24,4 +24,6 @@ Key Features
 System Architecture
   <img width="385" height="83" alt="image" src="https://github.com/user-attachments/assets/5558b55b-d081-46dd-972a-19b7af20d1cc" />
 
-  
+
+Single Line Summary
+Developed a multi-agent traffic simulation using PPO and Graph Neural Networks, achieving improved collision avoidance and traffic efficiency compared to rule-based baselines.

@@ -2,10 +2,9 @@
 GraphFlowRL is a Reinforcement Learning-based traffic simulation system where multiple autonomous vehicles learn to navigate intersections safely and efficiently.
 
 # The system combines:
-
-Proximal Policy Optimization (PPO) for continuous control
-Graph Neural Networks (GNNs) to model inter-agent interactions
-A custom-built traffic environment with physics-based dynamics
+- Proximal Policy Optimization (PPO) for continuous control
+- Graph Neural Networks (GNNs) to model inter-agent interactions
+- A custom-built traffic environment with physics-based dynamics
 
 Objectives
 Minimize collisions 🚗💥

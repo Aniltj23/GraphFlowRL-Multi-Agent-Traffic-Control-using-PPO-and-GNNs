@@ -1,7 +1,7 @@
 # GraphFlowRL: Multi-Agent Traffic Control using PPO and GNNs
 GraphFlowRL is a Reinforcement Learning-based traffic simulation system where multiple autonomous vehicles learn to navigate intersections safely and efficiently.
 
-The system combines:
+# The system combines:
 
 Proximal Policy Optimization (PPO) for continuous control
 Graph Neural Networks (GNNs) to model inter-agent interactions

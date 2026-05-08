@@ -15,6 +15,10 @@ GraphFlowRL is a Reinforcement Learning-based traffic simulation system where mu
 - ✅ Multi-agent reinforcement learning (MARL)
 - ✅ Graph-based interaction modeling (GNN)
 - ✅ Continuous control (steering + acceleration)
+
+# Result
+<img width="733" height="201" alt="image" src="https://github.com/user-attachments/assets/7268ce74-7c5a-4576-8f49-fae86dd3c003" />
+
 - ✅ Custom reward engineering
 - ✅ Curriculum learning (increasing agent count)
 - ✅ Baseline comparison (rule-based policy)
